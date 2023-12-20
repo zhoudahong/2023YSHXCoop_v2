@@ -1,0 +1,69 @@
+/*
+
+@font-face {
+    font-family: "ap-r";
+    src: url("../font/Alibaba-PuHuiTi-Regular.ttf");
+}
+!*@font-face {
+    font-family: "ss";
+    src: url("../font/ss.ttf");
+}*!
+!*@font-face {
+    font-family: "xg";
+    src: url("../font/xg.ttf");
+}*!
+!*@font-face {
+    font-family: "ss-m";
+    src: url("../font/SourceHanSansCN-Medium.otf");
+}*!
+@font-face {
+    font-family: "ss-n";
+    src: url("../font/SourceHanSansCN-Normal.otf");
+}
+@font-face {
+    font-family: "ss-r";
+    src: url("../font/SourceHanSansCN-Regular.otf");
+}
+@font-face {
+    font-family: "din";
+    src: url("../font/D-DIN.otf");
+}
+@font-face {
+    font-family: "din-bold";
+    src: url("../font/D-DIN-Bold.ttf");
+}
+!*@font-face {
+    font-family: "pmzd";
+    src: url("../font/pmzd.ttf");
+}*!
+.font-ss {
+    !*font-family: "ss",sans-serif;*!
+}
+.font-xg {
+    !*font-family: "xg",sans-serif;*!
+}
+.font-fs {
+    font-family: "仿宋",sans-serif;
+}
+.font-din {
+    font-family: "din" , sans-serif;
+}
+.font-din-bold {
+    font-family: "din-bold" , sans-serif;
+}
+.font-ap-r {
+    font-family: "ap-r" , sans-serif;
+}
+.font-ss-m {
+    !*font-family: "ss-m" , sans-serif;*!
+}
+.font-ss-n {
+    font-family: "ss-n" , sans-serif;
+}
+.font-ss-r {
+    font-family: "ss-r" , sans-serif;
+}
+.font-pm-zd {
+    !*font-family: "pmzd" , sans-serif;*!
+}
+*/
